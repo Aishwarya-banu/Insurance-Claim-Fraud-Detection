@@ -1,0 +1,201 @@
+months_as_customer,policy_state,policy_annual_premium,insured_sex,insured_education_level,insured_occupation,incident_type,collision_type,incident_severity,authorities_contacted,incident_state,property_damage,bodily_injuries,police_report_available,total_claim_amount,injury_claim,property_claim,vehicle_claim,auto_model,fraud_reported,predicted_fraud,fraud_probability,actual_fraud
+5,IL,1137.02,FEMALE,PhD,farming-fishing,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,YES,1,?,88110,16020,16020,56070,A5,0,0,0.07988351239478804,0
+160,IL,1422.78,FEMALE,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,?,2,YES,52800,5280,5280,42240,Pathfinder,0,0,0.11094403889688037,0
+385,IN,976.37,FEMALE,MD,craft-repair,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,WV,?,1,?,67600,13520,6760,47320,Legacy,0,0,0.22062707171579013,0
+446,IN,1373.21,MALE,College,adm-clerical,Multi-vehicle Collision,Front Collision,Total Loss,,SC,NO,0,NO,62800,6280,12560,43960,Wrangler,0,0,0.12783822217585913,0
+84,OH,1117.17,FEMALE,High School,machine-op-inspct,Parked Car,?,Trivial Damage,,SC,YES,2,YES,6820,620,1240,4960,3 Series,0,0,0.055578890285001736,0
+276,IL,948.1,FEMALE,High School,machine-op-inspct,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,?,0,?,69300,13860,6930,48510,Escape,0,0,0.2111129428321404,0
+303,IL,836.11,MALE,Masters,sales,Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,YES,1,NO,72840,12140,6070,54630,Neon,0,1,0.6412236194959557,0
+184,IL,1437.53,FEMALE,College,transport-moving,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,PA,?,0,NO,53730,11940,5970,35820,RAM,1,0,0.15536770657960555,1
+130,IL,1193.4,MALE,PhD,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,NO,2,?,48950,8900,4450,35600,Legacy,0,0,0.11432291889830433,0
+200,IL,1439.34,FEMALE,High School,sales,Vehicle Theft,?,Minor Damage,,VA,?,0,NO,3690,410,410,2870,Escape,0,0,0.14378123291895983,0
+114,OH,1173.25,FEMALE,Masters,protective-serv,Vehicle Theft,?,Minor Damage,Other,WV,NO,0,YES,4680,520,520,3640,Malibu,0,0,0.11642408840331582,0
+270,OH,1038.09,FEMALE,College,handlers-cleaners,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,NO,1,YES,89400,14900,7450,67050,Legacy,0,0,0.2402529171724468,0
+106,OH,1609.11,MALE,High School,craft-repair,Vehicle Theft,?,Minor Damage,,WV,YES,2,YES,5490,0,1220,4270,95,0,1,0.4353178700272733,0
+230,IL,1060.74,MALE,PhD,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,YES,2,?,49100,9820,4910,34370,Impreza,1,1,0.4141901034833821,1
+147,IN,1054.92,FEMALE,PhD,prof-specialty,Single Vehicle Collision,Front Collision,Major Damage,Police,NY,?,0,?,68240,8530,0,59710,Corolla,1,1,0.5585746412351469,1
+127,OH,1319.97,FEMALE,Associate,craft-repair,Vehicle Theft,?,Minor Damage,Other,NC,YES,1,?,4700,470,940,3290,92x,0,0,0.22798898446202687,0
+259,OH,1422.36,FEMALE,JD,craft-repair,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,PA,NO,1,?,46560,7760,7760,31040,Ultima,0,0,0.15887151255712353,0
+115,OH,1051.67,FEMALE,Associate,exec-managerial,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,WV,YES,0,NO,34160,0,4270,29890,A5,1,1,0.5011193036403477,1
+440,IL,995.55,MALE,College,protective-serv,Multi-vehicle Collision,Rear Collision,Major Damage,,SC,YES,0,?,68200,12400,12400,43400,Wrangler,1,0,0.38902732877599816,1
+85,IN,1454.42,MALE,Associate,protective-serv,Single Vehicle Collision,Side Collision,Major Damage,Police,NY,YES,0,YES,74280,12380,12380,49520,Forrestor,1,1,0.7525721832204052,1
+101,OH,1380.89,MALE,PhD,armed-forces,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,?,2,?,67210,12220,12220,42770,X6,0,0,0.1902958545124952,0
+294,IL,1226.49,FEMALE,PhD,farming-fishing,Vehicle Theft,?,Trivial Damage,Other,WV,NO,0,NO,6100,610,1220,4270,Fusion,0,0,0.053198665083001855,0
+273,OH,1403.9,FEMALE,PhD,farming-fishing,Multi-vehicle Collision,Side Collision,Total Loss,,VA,?,1,YES,44110,4010,8020,32080,Accord,0,0,0.17159636431921568,0
+285,IN,1216.68,FEMALE,Masters,sales,Vehicle Theft,?,Trivial Damage,,SC,NO,1,NO,2700,300,300,2100,F150,0,0,0.026519326323779343,0
+63,OH,1620.89,FEMALE,High School,handlers-cleaners,Vehicle Theft,?,Minor Damage,,NC,NO,2,NO,6120,1020,1020,4080,Corolla,0,0,0.26072870036609713,0
+428,IN,1506.21,MALE,Masters,transport-moving,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,NO,1,?,76560,12760,6380,57420,Ultima,0,0,0.21863089859712995,0
+80,IL,1474.17,FEMALE,College,tech-support,Single Vehicle Collision,Side Collision,Major Damage,,WV,YES,1,YES,52800,10560,5280,36960,95,0,1,0.5256271063289515,0
+232,IN,944.03,MALE,College,handlers-cleaners,Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,YES,2,?,77000,15400,7700,53900,Highlander,1,0,0.19161980474876952,1
+64,IL,1468.82,MALE,JD,handlers-cleaners,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,NO,2,NO,60000,5000,10000,45000,Accord,0,0,0.2223295733770938,0
+465,IL,1006.99,FEMALE,Masters,sales,Single Vehicle Collision,Side Collision,Minor Damage,Police,WV,NO,0,?,43560,4840,4840,33880,Legacy,0,0,0.2547030676556458,0
+429,OH,1127.89,MALE,Associate,machine-op-inspct,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,YES,2,YES,39480,6580,6580,26320,Forrestor,0,0,0.21361129135274584,0
+124,IL,1198.15,FEMALE,MD,other-service,Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,NO,0,YES,73560,12260,12260,49040,X5,0,0,0.08088576659004261,0
+87,OH,1048.39,FEMALE,Masters,transport-moving,Single Vehicle Collision,Side Collision,Minor Damage,,NY,?,2,YES,34650,6300,3150,25200,F150,0,0,0.21578144390253554,0
+304,IN,1525.86,FEMALE,PhD,craft-repair,Single Vehicle Collision,Side Collision,Minor Damage,Police,NC,YES,1,YES,73370,13340,6670,53360,95,0,0,0.23025821380682812,0
+396,IN,1366.39,MALE,High School,protective-serv,Multi-vehicle Collision,Front Collision,Major Damage,Police,NC,YES,2,NO,52560,11680,5840,35040,93,0,1,0.7851840879776807,0
+328,IL,1411.43,MALE,Masters,armed-forces,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,YES,2,NO,59400,5940,11880,41580,Civic,0,1,0.8283677395753068,0
+194,IL,1203.81,MALE,JD,transport-moving,Multi-vehicle Collision,Rear Collision,Minor Damage,,WV,?,0,?,95900,13700,20550,61650,95,0,0,0.3137338497494426,0
+96,IL,1631.1,FEMALE,High School,priv-house-serv,Parked Car,?,Trivial Damage,,WV,?,1,NO,6030,670,670,4690,Pathfinder,0,0,0.0528738997627838,0
+5,IN,915.41,FEMALE,High School,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,,NY,YES,0,NO,40500,4050,4050,32400,Pathfinder,0,0,0.15954905342389647,0
+151,OH,870.63,FEMALE,MD,adm-clerical,Multi-vehicle Collision,Side Collision,Minor Damage,,VA,NO,1,NO,62920,11440,5720,45760,Escape,0,0,0.22499157044056237,0
+257,IN,1379.93,MALE,MD,armed-forces,Multi-vehicle Collision,Side Collision,Major Damage,Police,NY,?,0,YES,51810,9420,4710,37680,A3,1,1,0.749217123719339,1
+325,IN,1690.27,FEMALE,Associate,protective-serv,Single Vehicle Collision,Side Collision,Major Damage,Fire,VA,YES,0,NO,72930,6630,6630,59670,RAM,1,1,0.7005801191368789,1
+158,OH,1327.41,FEMALE,Associate,handlers-cleaners,Single Vehicle Collision,Side Collision,Total Loss,Police,SC,?,0,?,35000,3500,7000,24500,Legacy,0,0,0.11710782368765815,0
+234,IN,951.56,FEMALE,JD,transport-moving,Multi-vehicle Collision,Side Collision,Major Damage,,SC,NO,2,?,98280,15120,7560,75600,Tahoe,1,1,0.7842717109494357,1
+119,IN,1097.64,MALE,High School,transport-moving,Multi-vehicle Collision,Rear Collision,Major Damage,Police,PA,NO,1,?,63720,7080,21240,35400,TL,0,1,0.7482634471693572,0
+264,OH,1411.3,MALE,PhD,prof-specialty,Single Vehicle Collision,Rear Collision,Minor Damage,Police,PA,NO,1,?,60390,10980,5490,43920,M5,1,0,0.2317766425978629,1
+135,IN,1341.24,FEMALE,MD,farming-fishing,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,NO,0,NO,32670,5940,2970,23760,Accord,0,0,0.12697847695920692,0
+98,IN,671.92,MALE,Masters,machine-op-inspct,Single Vehicle Collision,Front Collision,Minor Damage,Police,NC,?,2,?,64080,7120,7120,49840,Escape,0,0,0.3556797145175503,0
+61,IN,1115.27,MALE,JD,handlers-cleaners,Parked Car,?,Trivial Damage,Other,VA,YES,2,YES,5900,590,590,4720,Pathfinder,0,0,0.04971348359298228,0
+9,IL,1304.46,FEMALE,PhD,machine-op-inspct,Vehicle Theft,?,Trivial Damage,Other,NC,NO,0,YES,5940,540,1080,4320,A5,1,0,0.08459754447464657,1
+158,OH,1744.64,MALE,JD,prof-specialty,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,NO,0,NO,36400,3640,7280,25480,Jetta,0,0,0.09622700471986739,0
+338,IL,1143.46,MALE,MD,priv-house-serv,Single Vehicle Collision,Front Collision,Total Loss,Police,NC,YES,2,?,58560,9760,9760,39040,E400,0,0,0.1438781010628312,0
+156,IL,1134.08,MALE,PhD,other-service,Single Vehicle Collision,Front Collision,Major Damage,,NC,?,2,?,59000,5900,5900,47200,Fusion,1,1,0.6210575363006396,1
+415,IN,973.5,MALE,PhD,machine-op-inspct,Multi-vehicle Collision,Rear Collision,Total Loss,,WV,YES,1,YES,51090,7860,7860,35370,Highlander,0,0,0.12463655143473755,0
+413,IN,1268.79,MALE,MD,priv-house-serv,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,?,2,?,98160,8180,16360,73620,RAM,1,0,0.20152032221060812,1
+64,IL,954.16,MALE,Masters,prof-specialty,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,NO,0,?,75600,12600,12600,50400,Corolla,0,1,0.666402526495616,0
+103,IL,1354.83,MALE,MD,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,,NY,NO,2,?,40600,4060,4060,32480,Passat,0,0,0.24152070469110817,0
+235,OH,1253.12,FEMALE,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,,NY,YES,2,?,87010,7910,15820,63280,F150,0,0,0.29019729271991873,0
+298,OH,1451.01,FEMALE,College,other-service,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,NO,2,NO,28100,2810,5620,19670,Grand Cherokee,0,0,0.20042404822358317,0
+65,IL,1726.91,MALE,High School,other-service,Vehicle Theft,?,Trivial Damage,Other,VA,?,0,?,7200,720,1440,5040,A5,0,0,0.04974650105420283,0
+231,IL,972.47,MALE,College,protective-serv,Multi-vehicle Collision,Front Collision,Minor Damage,,PA,YES,2,YES,77100,7710,15420,53970,A3,0,0,0.23787213070611055,0
+195,OH,1393.57,MALE,PhD,machine-op-inspct,Parked Car,?,Minor Damage,,VA,NO,0,YES,2640,480,480,1680,F150,0,0,0.20099430808050334,0
+93,IL,1017.18,FEMALE,MD,prof-specialty,Multi-vehicle Collision,Rear Collision,Major Damage,,NC,YES,1,NO,48070,8740,8740,30590,92x,0,1,0.4430432527775416,0
+404,IN,767.14,MALE,Associate,sales,Parked Car,?,Trivial Damage,,WV,NO,0,NO,8800,1760,880,6160,Legacy,0,0,0.04590285830266801,0
+75,OH,1141.1,MALE,JD,armed-forces,Multi-vehicle Collision,Side Collision,Minor Damage,,SC,?,0,YES,71640,5970,11940,53730,Highlander,0,0,0.2667796998040886,0
+137,IN,1667.83,MALE,JD,prof-specialty,Parked Car,?,Minor Damage,,WV,YES,1,NO,6600,1200,1200,4200,Grand Cherokee,0,0,0.15350243878006573,0
+211,OH,1295.63,FEMALE,PhD,armed-forces,Multi-vehicle Collision,Front Collision,Total Loss,,WV,YES,1,?,53460,5940,5940,41580,CRV,0,0,0.15111696282069206,0
+152,IN,1034.27,FEMALE,JD,armed-forces,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,NO,1,NO,63900,7100,7100,49700,TL,0,0,0.17597879999438415,0
+271,OH,1105.49,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Side Collision,Major Damage,Police,SC,?,2,?,68310,12420,6210,49680,A3,1,0,0.3965050405443907,1
+37,OH,1221.17,FEMALE,Masters,protective-serv,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,YES,0,YES,51030,5670,11340,34020,Impreza,0,0,0.16590018296138057,0
+118,IN,1207.36,FEMALE,High School,handlers-cleaners,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,NO,1,?,74200,7420,14840,51940,Passat,0,1,0.5649923571833994,0
+231,IN,1331.69,FEMALE,Masters,adm-clerical,Single Vehicle Collision,Rear Collision,Minor Damage,,NY,?,1,NO,66950,10300,10300,46350,Malibu,0,0,0.23574308359726193,0
+193,OH,1233.85,FEMALE,College,handlers-cleaners,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,PA,?,2,YES,64260,0,14280,49980,Escape,0,0,0.22105604498756448,0
+100,OH,1124.59,MALE,College,adm-clerical,Single Vehicle Collision,Rear Collision,Minor Damage,Police,NC,NO,1,NO,40800,6800,6800,27200,X5,0,0,0.21051878370629595,0
+39,IL,1366.9,FEMALE,High School,handlers-cleaners,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,?,1,NO,52700,10540,10540,31620,X6,1,1,0.4901666162510836,1
+40,IN,1248.25,FEMALE,College,sales,Parked Car,?,Minor Damage,,VA,NO,0,?,8760,1460,1460,5840,3 Series,0,0,0.15362049433179373,0
+356,OH,912.3,MALE,College,prof-specialty,Multi-vehicle Collision,Front Collision,Major Damage,Police,SC,NO,2,?,68750,12500,12500,43750,A5,1,1,0.562660211550627,1
+199,IN,1262.08,MALE,JD,tech-support,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NC,?,0,NO,60170,10940,10940,38290,Pathfinder,1,1,0.7348555653094321,1
+75,IL,1389.86,FEMALE,Associate,priv-house-serv,Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,?,2,YES,65100,6510,6510,52080,93,0,0,0.09958645338019613,0
+151,IN,1366.42,FEMALE,Associate,protective-serv,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,NO,1,YES,59100,5910,5910,47280,Maxima,1,0,0.11376886725106762,1
+148,OH,1471.24,FEMALE,Masters,farming-fishing,Multi-vehicle Collision,Side Collision,Minor Damage,,NC,NO,2,NO,32480,4060,4060,24360,Neon,0,0,0.1929307022273085,0
+107,IN,1239.22,FEMALE,High School,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,YES,0,NO,89700,13800,13800,62100,A5,1,0,0.2195418507645103,1
+243,IN,1307.74,FEMALE,Associate,machine-op-inspct,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,?,0,NO,37530,4170,4170,29190,Wrangler,0,1,0.6120889351403841,0
+478,OH,835.02,FEMALE,Associate,adm-clerical,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,NO,1,NO,33930,0,3770,30160,X6,0,0,0.32213513959986495,0
+1,IL,903.32,FEMALE,High School,transport-moving,Multi-vehicle Collision,Rear Collision,Minor Damage,,NY,?,1,?,31700,6340,3170,22190,Highlander,0,0,0.20115815823673963,0
+210,IN,999.52,MALE,JD,tech-support,Vehicle Theft,?,Minor Damage,,VA,?,1,NO,8640,1440,720,6480,TL,0,0,0.16462887807832183,0
+458,IL,1356.92,MALE,Associate,handlers-cleaners,Single Vehicle Collision,Rear Collision,Major Damage,Police,NY,?,0,YES,46980,5220,5220,36540,A5,0,1,0.7783357831031469,0
+475,IL,1265.72,FEMALE,Masters,handlers-cleaners,Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,YES,0,?,64350,9900,9900,44550,E400,0,1,0.7510962272584171,0
+435,IN,1145.85,MALE,JD,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,?,1,YES,41490,9220,4610,27660,E400,0,0,0.12401177388567579,0
+276,IN,1724.09,MALE,PhD,craft-repair,Multi-vehicle Collision,Rear Collision,Minor Damage,,NY,YES,0,?,65780,5980,11960,47840,Tahoe,0,0,0.2468400395865408,0
+113,OH,1091.73,MALE,PhD,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,?,0,YES,49950,5550,5550,38850,Ultima,1,0,0.2122990411761374,1
+88,IN,1437.88,FEMALE,College,transport-moving,Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,NO,2,YES,56000,14000,0,42000,Malibu,0,0,0.15411810984124144,0
+220,IN,1281.72,MALE,College,farming-fishing,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,NO,0,YES,47740,4340,4340,39060,Civic,0,0,0.25622471364410343,0
+328,IL,1314.6,FEMALE,MD,prof-specialty,Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,?,2,?,70290,12780,6390,51120,92x,1,0,0.1343241354799746,1
+133,IN,1231.01,MALE,College,adm-clerical,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,NO,1,?,28440,3160,3160,22120,Neon,0,0,0.15678570975484069,0
+61,IL,1111.72,MALE,JD,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Fire,PA,?,1,?,41850,4650,4650,32550,Legacy,0,1,0.7334937569563761,0
+366,IN,1561.41,FEMALE,High School,handlers-cleaners,Multi-vehicle Collision,Rear Collision,Minor Damage,,NY,YES,1,NO,70290,12780,12780,44730,C300,0,0,0.18525398831059373,0
+31,IL,1318.24,FEMALE,College,prof-specialty,Parked Car,?,Trivial Damage,Other,WV,NO,0,YES,4700,940,470,3290,Neon,0,0,0.02086471780951255,0
+215,OH,1848.81,MALE,JD,transport-moving,Multi-vehicle Collision,Front Collision,Major Damage,Fire,WV,YES,2,YES,68520,11420,5710,51390,Legacy,1,1,0.44137613892727723,1
+179,OH,1246.68,FEMALE,PhD,priv-house-serv,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,?,0,?,53100,5900,5900,41300,Impreza,0,0,0.23460893254726237,0
+99,OH,1330.39,MALE,MD,prof-specialty,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,NO,2,YES,49900,4990,9980,34930,Neon,0,0,0.22374064687923537,0
+270,IL,1030.95,FEMALE,Associate,machine-op-inspct,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,?,1,NO,35900,7180,3590,25130,A3,1,1,0.4548747841940169,1
+204,OH,1693.83,MALE,High School,protective-serv,Single Vehicle Collision,Front Collision,Minor Damage,,NY,?,1,?,53400,5340,5340,42720,CRV,0,0,0.2878721970425739,0
+208,IL,1153.49,MALE,Associate,craft-repair,Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,YES,1,YES,50500,10100,5050,35350,TL,0,0,0.08268296129484838,0
+140,OH,1520.78,FEMALE,High School,craft-repair,Parked Car,?,Trivial Damage,Other,SC,?,0,YES,2860,520,260,2080,Tahoe,1,0,0.04703560784970635,1
+254,IL,1390.89,MALE,College,armed-forces,Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,?,2,?,53460,9720,4860,38880,Jetta,0,0,0.22917659504149177,0
+204,IL,1256.2,FEMALE,JD,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,YES,1,YES,41700,8340,8340,25020,95,0,0,0.14946003784725317,0
+137,OH,1107.07,FEMALE,High School,protective-serv,Vehicle Theft,?,Minor Damage,,VA,NO,0,YES,3300,600,600,2100,92x,0,0,0.1395188876057615,0
+276,IL,1448.84,FEMALE,Masters,machine-op-inspct,Parked Car,?,Trivial Damage,,SC,?,0,NO,5940,660,660,4620,Highlander,0,0,0.06624382834727685,0
+229,OH,1107.59,MALE,PhD,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Police,NY,NO,1,NO,62640,10440,10440,41760,C300,0,1,0.7194348332196617,0
+379,IL,1251.16,FEMALE,Associate,machine-op-inspct,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,?,0,NO,75960,6330,6330,63300,Grand Cherokee,0,0,0.1385120339770506,0
+197,OH,1324.78,FEMALE,PhD,prof-specialty,Single Vehicle Collision,Front Collision,Major Damage,,NC,NO,2,YES,76400,15280,7640,53480,Jetta,1,1,0.6776742422134663,1
+29,OH,1722.5,MALE,High School,other-service,Single Vehicle Collision,Side Collision,Major Damage,Police,WV,?,0,?,76900,7690,7690,61520,Wrangler,0,1,0.5075776088849285,0
+140,IL,1354.2,FEMALE,College,adm-clerical,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,?,0,?,60170,5470,10940,43760,Pathfinder,0,0,0.21722173554669325,0
+153,IL,873.64,FEMALE,Associate,priv-house-serv,Multi-vehicle Collision,Front Collision,Minor Damage,Police,SC,NO,2,?,68400,11400,11400,45600,F150,0,0,0.19394327899291908,0
+310,OH,845.16,FEMALE,Masters,priv-house-serv,Single Vehicle Collision,Front Collision,Major Damage,,NC,YES,1,NO,55170,6130,6130,42910,A5,1,1,0.6530594597347712,1
+296,OH,1141.35,MALE,Masters,craft-repair,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,?,0,NO,54900,5490,5490,43920,C300,0,1,0.7695378475931758,0
+89,IN,988.93,FEMALE,High School,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,Police,NY,?,2,YES,84590,15380,15380,53830,Neon,0,0,0.09755866622745256,0
+259,OH,1170.53,FEMALE,PhD,armed-forces,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,NO,1,YES,62590,5690,11380,45520,Pathfinder,0,0,0.08888347876022389,0
+156,IN,1090.65,MALE,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,,NC,?,1,YES,53400,5340,5340,42720,Civic,1,1,0.4156291018294518,1
+215,IL,1125.4,MALE,Masters,adm-clerical,Vehicle Theft,?,Trivial Damage,Other,WV,?,2,NO,2640,220,440,1980,Wrangler,0,0,0.04637350669901632,0
+4,OH,1282.93,FEMALE,College,exec-managerial,Multi-vehicle Collision,Side Collision,Major Damage,,WV,?,0,?,66880,6080,12160,48640,Silverado,1,1,0.7480986982420549,1
+58,OH,1471.44,MALE,High School,transport-moving,Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,NO,2,NO,50380,4580,9160,36640,Tahoe,1,1,0.7747813214949355,1
+122,OH,1629.94,FEMALE,Masters,priv-house-serv,Parked Car,?,Trivial Damage,Other,SC,?,0,NO,3850,350,350,3150,Neon,0,0,0.04402944311682392,0
+107,IL,932.14,MALE,MD,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,NO,2,NO,78650,14300,7150,57200,A3,1,0,0.10529795287494303,1
+194,IN,1231.25,FEMALE,PhD,craft-repair,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,?,1,?,53680,4880,9760,39040,Camry,0,0,0.20931732564002362,0
+242,OH,1153.54,MALE,Masters,protective-serv,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,NO,0,?,68090,12380,12380,43330,Corolla,0,0,0.20230142317188393,0
+414,IN,1335.13,FEMALE,High School,farming-fishing,Single Vehicle Collision,Rear Collision,Total Loss,,SC,YES,1,?,54810,6090,6090,42630,Silverado,1,0,0.16201749380471364,1
+212,OH,1255.35,FEMALE,JD,protective-serv,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,NO,0,YES,59300,11860,5930,41510,RAM,0,0,0.09718481678522889,0
+95,IL,1370.92,MALE,College,transport-moving,Single Vehicle Collision,Rear Collision,Minor Damage,,SC,YES,0,?,34800,3480,6960,24360,MDX,0,0,0.2038613323135912,0
+239,OH,1276.73,FEMALE,Masters,handlers-cleaners,Multi-vehicle Collision,Front Collision,Major Damage,,WV,NO,1,?,61920,6880,6880,48160,93,0,1,0.6906585377687539,0
+380,IL,1166.62,MALE,Associate,priv-house-serv,Parked Car,?,Trivial Damage,,NC,NO,0,NO,5700,570,570,4560,93,0,0,0.061274046322038665,0
+394,IL,1401.2,FEMALE,High School,craft-repair,Vehicle Theft,?,Trivial Damage,,NC,NO,1,NO,6890,1060,1060,4770,A5,0,0,0.12914780702622317,0
+3,OH,1310.8,FEMALE,Masters,craft-repair,Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,YES,0,?,87200,17440,8720,61040,Accord,0,0,0.2531922786856211,0
+15,IN,1586.41,FEMALE,High School,sales,Single Vehicle Collision,Front Collision,Major Damage,,WV,YES,1,?,75570,6870,13740,54960,X5,1,1,0.7193119512726157,1
+22,OH,1276.57,MALE,PhD,craft-repair,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,YES,1,NO,78900,15780,7890,55230,Silverado,0,0,0.23041797883558116,0
+255,IL,1167.3,MALE,High School,priv-house-serv,Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,NO,2,?,69300,13860,13860,41580,Passat,0,0,0.15730265508768554,0
+272,OH,1279.13,MALE,PhD,craft-repair,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,?,1,YES,81070,7370,14740,58960,A3,1,0,0.31856040520708423,1
+8,OH,1266.92,MALE,Masters,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Police,OH,NO,1,YES,71500,16500,11000,44000,Escape,1,1,0.6688475347291133,1
+199,OH,895.83,FEMALE,Associate,sales,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,NO,1,NO,30100,3010,0,27090,Malibu,0,0,0.179435505892789,0
+269,IL,1081.08,MALE,JD,priv-house-serv,Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,YES,0,?,56400,11280,11280,33840,Highlander,0,0,0.192027390898419,0
+269,OH,1297.75,FEMALE,JD,other-service,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,?,0,?,98670,15180,15180,68310,Tahoe,1,0,0.0952913742485555,1
+130,OH,990.11,MALE,Masters,sales,Parked Car,?,Trivial Damage,Other,NY,?,1,YES,5830,1060,1060,3710,RAM,0,0,0.054436283868703174,0
+186,IN,1348.32,FEMALE,Associate,craft-repair,Vehicle Theft,?,Trivial Damage,,NY,NO,2,?,4730,860,860,3010,Malibu,1,0,0.0776041042157457,1
+41,OH,1294.41,MALE,High School,transport-moving,Vehicle Theft,?,Minor Damage,Other,NC,YES,0,?,8970,1380,1380,6210,Neon,0,0,0.14101270929371115,0
+140,OH,979.26,FEMALE,JD,transport-moving,Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,YES,0,YES,72800,14560,14560,43680,Accord,0,1,0.49644801526167637,0
+259,IL,1537.13,FEMALE,PhD,handlers-cleaners,Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,NO,0,YES,57060,6340,6340,44380,Fusion,0,0,0.1255524095714259,0
+95,OH,773.99,MALE,Associate,armed-forces,Vehicle Theft,?,Trivial Damage,Other,PA,YES,1,NO,3200,640,320,2240,E400,0,0,0.07865500640364587,0
+386,OH,1078.65,MALE,JD,craft-repair,Single Vehicle Collision,Front Collision,Minor Damage,,WV,?,2,YES,66660,12120,6060,48480,Civic,0,0,0.3517624728229962,0
+142,IN,1616.58,MALE,JD,adm-clerical,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,YES,0,YES,63600,6360,12720,44520,RAM,0,1,0.7596750723562279,0
+183,IL,1543.68,FEMALE,Masters,prof-specialty,Single Vehicle Collision,Side Collision,Major Damage,,NC,NO,0,YES,51920,9440,4720,37760,A3,1,1,0.5177974683347819,1
+45,IN,1197.71,MALE,Masters,machine-op-inspct,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,WV,?,2,?,78240,13040,13040,52160,Legacy,0,0,0.12392204689970475,0
+266,IN,1093.83,MALE,Associate,adm-clerical,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,WV,?,1,NO,53280,4440,8880,39960,Impreza,1,1,0.7051288830405013,1
+467,IN,977.4,MALE,Masters,transport-moving,Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,YES,2,NO,55700,5570,11140,38990,Maxima,0,0,0.16553036246366923,0
+284,IL,958.3,FEMALE,PhD,machine-op-inspct,Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,?,0,?,46860,8520,8520,29820,Passat,0,1,0.4146833787181383,0
+448,IL,1376.16,FEMALE,PhD,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,,SC,NO,2,?,47760,5970,5970,35820,Impreza,1,1,0.6374562840236216,1
+165,IL,1247.87,MALE,Masters,armed-forces,Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,NO,2,NO,45700,4570,4570,36560,3 Series,0,0,0.11881951507148923,0
+145,OH,1434.27,FEMALE,Associate,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,Police,VA,?,2,?,55110,5010,10020,40080,Maxima,0,1,0.7019800771670325,0
+154,IN,795.23,MALE,PhD,machine-op-inspct,Multi-vehicle Collision,Rear Collision,Major Damage,,NY,YES,2,?,69480,15440,0,54040,Maxima,1,1,0.5690290574916544,1
+280,IL,1387.35,MALE,JD,transport-moving,Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,NO,2,?,61320,10220,10220,40880,M5,0,0,0.19397716424623423,0
+56,IN,1533.07,MALE,JD,farming-fishing,Single Vehicle Collision,Rear Collision,Major Damage,,NC,YES,1,YES,58500,0,6500,52000,Escape,0,1,0.844254498669041,0
+253,IL,1358.2,FEMALE,MD,transport-moving,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,YES,0,NO,64570,5870,11740,46960,Wrangler,0,1,0.7618748192388516,0
+16,IL,968.46,MALE,MD,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,?,0,?,59400,6600,13200,39600,RAM,1,0,0.11357259453480671,1
+128,IL,1045.12,FEMALE,High School,transport-moving,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,NO,0,?,69930,0,15540,54390,Escape,1,1,0.646163059407357,1
+218,IL,1521.55,FEMALE,Associate,priv-house-serv,Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,?,1,YES,68200,13640,6820,47740,RAM,1,1,0.6943397227238938,1
+278,IN,1285.01,MALE,Masters,machine-op-inspct,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,NO,2,YES,58500,5850,5850,46800,Camry,0,1,0.791588858204103,0
+194,IL,1416.24,FEMALE,MD,adm-clerical,Parked Car,?,Minor Damage,Other,WV,YES,1,?,5940,1080,540,4320,Pathfinder,0,0,0.23715069531504238,0
+26,OH,1484.48,MALE,PhD,armed-forces,Single Vehicle Collision,Side Collision,Major Damage,,SC,NO,2,?,63030,5730,11460,45840,92x,0,1,0.8220172341326982,0
+91,IL,1316.63,FEMALE,Masters,machine-op-inspct,Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,YES,2,?,84500,13000,13000,58500,X6,0,0,0.21011548179305525,0
+253,OH,1312.75,FEMALE,PhD,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,NO,2,YES,80740,7340,14680,58720,Camry,1,1,0.7986462672167948,1
+61,IN,922.67,FEMALE,College,priv-house-serv,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,YES,2,?,65520,9360,9360,46800,Highlander,1,1,0.6720705969652504,1
+317,IN,1012.78,MALE,MD,sales,Single Vehicle Collision,Front Collision,Major Damage,Fire,WV,NO,2,NO,104610,19020,19020,66570,ML350,1,1,0.4714876901725567,1
+261,OH,1337.56,FEMALE,College,prof-specialty,Single Vehicle Collision,Rear Collision,Minor Damage,,SC,?,1,YES,74700,7470,14940,52290,RAM,0,0,0.33875021979670356,0
+22,IN,1248.05,FEMALE,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,,SC,YES,1,?,53280,5920,0,47360,Malibu,0,0,0.1270979622579955,0
+128,OH,1878.44,MALE,High School,other-service,Single Vehicle Collision,Rear Collision,Total Loss,Fire,VA,NO,0,?,59070,5370,5370,48330,Malibu,0,0,0.14036166502697237,0
+283,OH,1195.01,FEMALE,Associate,sales,Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,NO,0,?,42700,0,6100,36600,ML350,1,1,0.4065673480948202,1
+20,OH,1711.72,FEMALE,JD,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,NO,2,NO,63250,5750,11500,46000,Tahoe,1,1,0.7046485870493348,1
+134,OH,1443.32,FEMALE,PhD,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,?,0,YES,47790,5310,5310,37170,Impreza,1,1,0.5284360656527897,1
+200,IN,828.42,FEMALE,College,prof-specialty,Single Vehicle Collision,Front Collision,Total Loss,,NY,?,2,NO,56000,5600,5600,44800,Malibu,0,0,0.14045491720442496,0
+125,IN,1220.86,MALE,JD,other-service,Parked Car,?,Trivial Damage,Other,NY,YES,1,?,4320,0,960,3360,93,0,0,0.04211578565813904,0
+338,OH,1486.04,FEMALE,Associate,armed-forces,Multi-vehicle Collision,Rear Collision,Major Damage,Police,OH,NO,2,?,64100,12820,6410,44870,RAM,1,1,0.4667965200660817,1
+209,IN,1223.39,FEMALE,MD,craft-repair,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,?,1,?,65440,8180,8180,49080,Wrangler,0,0,0.0746432044039345,0
+32,OH,1260.32,MALE,JD,other-service,Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,?,1,?,45500,9100,4550,31850,Corolla,0,0,0.12470037729833124,0
+316,IL,1290.74,FEMALE,High School,prof-specialty,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,NO,2,YES,78870,7170,14340,57360,Legacy,0,1,0.6146259449989455,0
+147,IN,1375.29,FEMALE,Masters,armed-forces,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,?,0,?,56160,6240,6240,43680,Fusion,1,1,0.6257190601257835,1
+120,IL,1281.27,FEMALE,PhD,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,NO,0,?,65500,6550,6550,52400,X5,0,0,0.1985930732539084,0
+256,OH,1203.17,FEMALE,MD,prof-specialty,Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,NO,0,?,63250,11500,5750,46000,Ultima,0,0,0.08775592629688772,0
+162,IN,1050.24,FEMALE,Masters,adm-clerical,Parked Car,?,Minor Damage,Other,NC,?,0,NO,3600,360,720,2520,X5,1,0,0.1494204785014116,1
+108,IN,1112.04,FEMALE,PhD,other-service,Parked Car,?,Minor Damage,Other,SC,NO,1,NO,4290,780,780,2730,Passat,0,0,0.12258262932094337,0
+204,IL,1124.47,FEMALE,MD,tech-support,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,NO,0,?,90530,16460,16460,57610,F150,0,0,0.1263122997237809,0
+126,OH,1328.26,MALE,Masters,sales,Single Vehicle Collision,Front Collision,Total Loss,,WV,NO,1,NO,60840,13520,6760,40560,Forrestor,0,0,0.2602916317252811,0
+97,OH,1270.55,MALE,Masters,protective-serv,Multi-vehicle Collision,Side Collision,Total Loss,Police,NC,YES,2,NO,84920,7720,15440,61760,Wrangler,1,0,0.1908199798251897,1
+107,OH,1172.82,MALE,Associate,machine-op-inspct,Vehicle Theft,?,Trivial Damage,,SC,?,1,NO,3900,780,390,2730,F150,0,0,0.04184062493011207,0
+285,OH,1512.58,FEMALE,College,sales,Vehicle Theft,?,Minor Damage,,SC,?,1,?,2520,280,280,1960,3 Series,0,0,0.19845845972474332,0
+11,OH,1217.69,FEMALE,MD,prof-specialty,Multi-vehicle Collision,Side Collision,Major Damage,Police,SC,?,1,?,53460,9720,9720,34020,Neon,1,0,0.39726033249506193,1
+275,OH,1190.6,MALE,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,OH,?,1,YES,43230,7860,7860,27510,Silverado,0,0,0.19243515392102203,0
+85,IN,1259.02,FEMALE,JD,tech-support,Parked Car,?,Trivial Damage,Other,SC,NO,2,?,5640,940,940,3760,Ultima,0,0,0.016071376373920563,0
+343,IN,1451.54,MALE,JD,adm-clerical,Multi-vehicle Collision,Side Collision,Total Loss,,SC,NO,2,NO,65070,7230,14460,43380,C300,0,0,0.14744705433891955,0
+75,IN,1202.75,MALE,High School,handlers-cleaners,Multi-vehicle Collision,Front Collision,Minor Damage,,SC,NO,0,YES,79560,6630,13260,59670,Passat,0,0,0.23652063336237503,0
+194,OH,1489.24,FEMALE,JD,other-service,Vehicle Theft,?,Minor Damage,Other,SC,YES,2,YES,8060,1240,1240,5580,95,0,0,0.1572074541637727,0
